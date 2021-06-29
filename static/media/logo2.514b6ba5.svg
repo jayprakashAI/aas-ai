@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="200"
+   height="200"
+   version="1.1"
+   id="svg128"
+   sodipodi:docname="logo2.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata132">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1014"
+     id="namedview130"
+     showgrid="true"
+     inkscape:zoom="1.1849519"
+     inkscape:cx="100"
+     inkscape:cy="223.07692"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg128">
+    <inkscape:grid
+       type="xygrid"
+       id="grid134" />
+  </sodipodi:namedview>
+  <g
+     id="Layer_1"
+     transform="matrix(0.72388949,0,0,0.8026692,-14.563041,-82.206141)">
+    <title
+       id="title98">Layer 1</title>
+    <path
+       stroke="#bf6715"
+       fill-opacity="1"
+       id="svg_5"
+       d="m 225.50052,152.00003 h -53.98421 l 50.06357,113.49996 -53.07945,-1.08095 31.20276,-47.12856 -5.68381,-16.48921 31.48115,-48.80124 z"
+       fill="url(#svg_37)"
+       style="fill:url(#svg_37)" />
+    <path
+       stroke="#e0934c"
+       fill-opacity="1"
+       id="svg_28"
+       d="m 114.41806,264.59385 25.49995,-112.49978 25.49995,112.49978 h -50.99989 z"
+       fill="url(#svg_36)"
+       style="fill:url(#svg_36)" />
+    <path
+       stroke="#e0934c"
+       fill-opacity="1"
+       id="svg_29"
+       d="M 60.41819,265.59384 85.41814,153.59407 110.41809,265.59384 H 60.41818 Z"
+       fill="url(#svg_35)"
+       style="fill:url(#svg_35)" />
+    <text
+       text-anchor="start"
+       font-family="sans-serif"
+       font-size="24px"
+       stroke-width="0.5"
+       id="svg_39"
+       y="293.74942"
+       x="35.00074"
+       stroke="#e0934c"
+       fill="#db7430">Anagha Agile Systems</text>
+    <line
+       stroke="url(#svg_43)"
+       stroke-opacity="1"
+       stroke-width="5"
+       id="svg_41"
+       y2="264.74945"
+       x2="222.00037"
+       y1="152.24969"
+       x1="170.50046"
+       fill="none"
+       style="stroke:url(#svg_43)" />
+  </g>
+  <defs
+     id="defs126">
+    <linearGradient
+       y2="103.40487"
+       x2="164.82104"
+       y1="103.40487"
+       x1="88.955148"
+       id="svg_35"
+       gradientTransform="scale(0.67371254,1.4843126)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0.25"
+         stop-opacity="0.99609"
+         stop-color="#e58a34"
+         id="stop106" />
+      <stop
+         offset="0.81641"
+         stop-opacity="0.98047"
+         stop-color="#ea4848"
+         id="stop108" />
+    </linearGradient>
+    <linearGradient
+       y2="103.29913"
+       x2="244.29976"
+       y1="104.80055"
+       x1="184.83921"
+       id="svg_36"
+       gradientTransform="scale(0.67967311,1.4712955)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0.38672"
+         stop-opacity="0.99609"
+         stop-color="#e58a34"
+         id="stop111" />
+      <stop
+         offset="0.80469"
+         stop-opacity="0.98828"
+         stop-color="#ed4242"
+         id="stop113" />
+    </linearGradient>
+    <linearGradient
+       y2="108.59296"
+       x2="315.88003"
+       y1="109.87592"
+       x1="233.7968"
+       id="svg_37"
+       gradientTransform="scale(0.71678505,1.3951184)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0.47266"
+         stop-opacity="0.99219"
+         stop-color="#e08835"
+         id="stop116" />
+      <stop
+         offset="0.92188"
+         stop-opacity="0.98828"
+         stop-color="#e04c51"
+         id="stop118" />
+    </linearGradient>
+    <linearGradient
+       y2="105.75351"
+       x2="320.67206"
+       y1="105.75351"
+       x1="240.53577"
+       id="svg_43"
+       gradientTransform="scale(0.69938586,1.4298259)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0.47266"
+         stop-opacity="0.99609"
+         stop-color="#e0934c"
+         id="stop121" />
+      <stop
+         offset="1"
+         stop-opacity="0.99609"
+         stop-color="#b22020"
+         id="stop123" />
+    </linearGradient>
+  </defs>
+</svg>
